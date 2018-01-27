@@ -1,0 +1,6 @@
+C:\Users\Marion\Documents\Visual Studio 2017\Projects\HackerRank_Workbook\HackerRank_Workbook\bin\Debug\HackerRank_Workbook.exe.config
+C:\Users\Marion\Documents\Visual Studio 2017\Projects\HackerRank_Workbook\HackerRank_Workbook\bin\Debug\HackerRank_Workbook.exe
+C:\Users\Marion\Documents\Visual Studio 2017\Projects\HackerRank_Workbook\HackerRank_Workbook\bin\Debug\HackerRank_Workbook.pdb
+C:\Users\Marion\Documents\Visual Studio 2017\Projects\HackerRank_Workbook\HackerRank_Workbook\obj\Debug\HackerRank_Workbook.csprojResolveAssemblyReference.cache
+C:\Users\Marion\Documents\Visual Studio 2017\Projects\HackerRank_Workbook\HackerRank_Workbook\obj\Debug\HackerRank_Workbook.exe
+C:\Users\Marion\Documents\Visual Studio 2017\Projects\HackerRank_Workbook\HackerRank_Workbook\obj\Debug\HackerRank_Workbook.pdb
